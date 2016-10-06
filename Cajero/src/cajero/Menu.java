@@ -73,7 +73,7 @@ public class Menu extends JFrame implements ActionListener{
         }
         
         if(e.getActionCommand().equals("Movimiento Bancario")){
-            MovBancario mov = new MovBancario();
+            Movimiento mov = new Movimiento();
             this.dispose();
         }
     }

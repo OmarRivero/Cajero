@@ -16,7 +16,7 @@ public class MainCajero {
      */
     public static void main(String[] args) {
         //Login inicial = new Login();
-        Login men = new Login();
+        Login log = new Login();
     }
     
 }
